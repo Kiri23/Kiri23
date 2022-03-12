@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 Boilerplate code: 
-Slack bot: < paste github link of the bot here> 
-google chrome extension: link here 
-Vscode extension: link here 
+
+1. Slack bot: < paste github link of the bot here> 
+
+2. google chrome extension: link here 
+
+3. Vscode extension: link here 
 
 <!--
 **Kiri23/Kiri23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
