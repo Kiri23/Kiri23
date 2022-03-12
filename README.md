@@ -7,6 +7,7 @@ hello world extensions:
 2. google chrome extension: link here 
 
 3. Vscode extension: link here 
+4. inquire cli 
 
 <!--
 **Kiri23/Kiri23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
