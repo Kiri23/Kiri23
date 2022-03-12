@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Boilerplate code: 
+hello world extensions: 
 
 1. Slack bot: < paste github link of the bot here> 
 
