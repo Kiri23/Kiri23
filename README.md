@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--
+
 hello world extensions: 
 
 1. Slack bot: < paste github link of the bot here> 
@@ -9,7 +11,6 @@ hello world extensions:
 3. Vscode extension: link here 
 4. inquire cli 
 
-<!--
 **Kiri23/Kiri23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
