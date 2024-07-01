@@ -57,7 +57,6 @@ I'm always expanding my knowledge. Check out some of my learning projects:
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-- [LinkedIn](Your LinkedIn URL)
-- [Personal Website/Blog](Your website if you have one)
+- [LinkedIn](https://www.linkedin.com/in/christian-nogueras/)
 
 #OpenToWork
