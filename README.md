@@ -5,7 +5,7 @@ I'm a passionate full-stack developer with a love for exploring new technologies
 ## 🚀 Featured Projects
 
 ### [Video Dubbing System](https://github.com/Kiri23/dubbing-videos)
-An advanced video dubbing system using Node.js, FFMPEG, and OpenAI APIs. Demonstrates complex video processing and AI integration.
+A video dubbing system using Node.js, FFMPEG, and OpenAI APIs. Demonstrates video processing and AI integration.
 
 ### [Mail GPT](https://github.com/Kiri23/mail-gpt)
 A comprehensive media aggregator concept, starting with email integration and aiming to expand into a multi-source content summarization platform.
